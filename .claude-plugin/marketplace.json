@@ -1,0 +1,5 @@
+{
+  "name": "mathys-mods",
+  "owner": { "name": "Mathys Morena" },
+  "plugins": [ { "name": "token-meter", "source": "./", "description": "Compteur de tokens en direct dans chaque discussion" } ]
+}
