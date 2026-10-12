@@ -1,0 +1,7 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "Compteur de tokens en direct : dernier tour, total de la discussion, contexte, coût et limites",
+  "types": "./types/index.d.ts",
+  "author": { "name": "Mathys Morena" }
+}
